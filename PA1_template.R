@@ -1,6 +1,4 @@
-install.packages("ggplot2")
-install.packages("knitr")
-
+install.packages("ggplot2"); install.packages("knitr")
 library(dplyr); library(ggplot2); library(lattice); library(knitr)
 
 # Loading and preprocessing the data
